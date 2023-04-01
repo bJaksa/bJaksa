@@ -2,4 +2,4 @@
 
 <h4 align="center">🔭 I’m currently working on **Liable Network**</h4>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bjaksa&" alt="bjaksa" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bjaksa&" alt="bjaksa" /></p>
